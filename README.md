@@ -14,7 +14,7 @@ Cuenta con los siguientes modelos:
 7. **Favorite**: sirve como entidad intermedia entre el modelo de Usuario y el de Inmueble. Representa a los inmuebles que han sido marcados como favoritos por los usuarios.
 
 ## Diagrama de Clases
-[imagen]
+![Diagrama de clases UML](https://github.com/carlostxrres/inmoBarcelona/blob/main/inmoBarcelona.png)
 
 ## Configuración
 Para configurar este proyecto en tu entorno local, sigue los pasos a continuación:

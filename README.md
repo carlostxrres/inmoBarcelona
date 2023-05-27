@@ -53,10 +53,14 @@ Se proporciona una API REST con las siguientes rutas para la interacción con la
 
 ## Enlaces adicionales (Trello, presentaciones, etc.)
 Los enlaces a la presentación, Trello y otros materiales se proporcionarán pronto.
+- [Presentación de Google Slides](https://docs.google.com/presentation/d/1SUaQ8DCURb7NR7P3HQON-0ciY3Y4PjE6vxyp25BU5yo/edit?usp=sharing)
+- [Diagrama de clases UML en Lucid](https://lucid.app/lucidchart/ba29b573-ee20-4510-b0b5-094b7214f0df/edit?viewport_loc=202%2C-611%2C1928%2C3681%2C0_0&invitationId=inv_6a530aeb-4ba6-4ddb-89a4-6d91ccae495b)
+- [Trello](https://trello.com/invite/b/OeSwP6wX/ATTI6bf18f29653346b72f9fcb2d755748e318F54D73/project)
 
 ## Trabajo futuro
 - Crear tests más robustos.
 - Agregar funcionalidad para obtener datos de la web scrapeando portales inmobiliarios como Idealista.
+- Añadir más atributos a clases como Property.
 
 ## Recursos
 - [Spring Boot Documentation](https://spring.io/projects/spring-boot)

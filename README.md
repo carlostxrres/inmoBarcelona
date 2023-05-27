@@ -1,8 +1,8 @@
 # inmoBarcelona
-Mi proyecto final del Bootcamp en Backend de Ironhack
+Mi proyecto final del Bootcamp en Backend de Ironhack.
 
 ## Descripción del proyecto
-inmoBarcelona es una plataforma web que permite a los usuarios publicar, buscar, y obtener información sobre los inmuebles en venta en la ciudad de Barcelona. La aplicación también permite a los usuarios crear una lista de favoritos de las propiedades.
+inmoBarcelona es un back-end para una plataforma web que permite a los usuarios publicar, buscar, y obtener información sobre los inmuebles en venta en la ciudad de Barcelona. La aplicación también permite a los usuarios crear una lista de favoritos de las propiedades.
 
 Cuenta con los siguientes modelos:
 1. **User**: representa a los usuarios de la plataforma. Cada usuario tiene un nombre, un nombre de usuario y una contraseña. Un usuario puede tener varios roles y puede marcar varios inmuebles como favoritos.
